@@ -1,2 +1,2 @@
 # pcb-gallery
-A repo of all the pcbs i have made so far (many are not shown due to an incident).
+A curated collection of my PCB design work, including early boards, collaborative projects, and recovered screenshots from designs lost during a Windows corruption incident. This gallery represents my progression as a hardware designer and the lessons I’ve learned about workflow, version control, and engineering discipline.
