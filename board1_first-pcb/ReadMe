@@ -1,10 +1,10 @@
-#First PCB — Early Prototype
+# First PCB — Early Prototype
 
 This was the earliest PCB I designed, created before I fully understood layout workflows. The schematic was completed, but the layout was still in progress when the project was interrupted. Even though the board was never fabricated, it represents the starting point of my hardware design journey.
 
 ---
 
-##Overview
+## Overview
 This board was intended as a simple test platform to learn:
 - Schematic capture
 - Component selection
@@ -15,14 +15,14 @@ The schematic was fully completed, however due corruption I was only able to rec
 
 ---
 
-##Screenshots
+## Screenshots
 *(Images embedded below)*
 
 ![Schematic Screenshot](./images/schematic.png)
 
 ---
 
-##What I Learned
+## What I Learned
 - How to structure a schematic cleanly  
 - Why placement matters before routing  
 - How to think about current paths and grounding  
@@ -32,7 +32,7 @@ This board marks the beginning of my PCB design progression.
 
 ---
 
-##Status
+## Status
 **Archived.**  
 Serves as a reference point for how my design skills have evolved.
 
