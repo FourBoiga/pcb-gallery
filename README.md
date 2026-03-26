@@ -48,7 +48,7 @@ Several boards created between my earliest designs and my more recent work were 
 A significant part of my PCB learning came from two creators whose content helped me understand real-world design practices:
 
 - Altium Academy (YouTube) — foundational PCB concepts, layout strategy, and practical engineering explanations  
-- Phil’s Lab / Phil’s Notes (YouTube) — deep dives into mixed-signal design, noise reduction, RF considerations, and professional-grade PCB techniques  
+- Phil’s Lab (YouTube) — deep dives into mixed-signal design, noise reduction, RF considerations, and professional-grade PCB techniques  
 
 Their content played a major role in shaping how I approach PCB design today.
 
