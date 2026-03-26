@@ -16,7 +16,6 @@ The schematic was fully completed, however due corruption I was only able to rec
 ---
 
 ## Screenshots
-*(Images embedded below)*
 
 ![Schematic Screenshot](./images/schematic.png)
 
