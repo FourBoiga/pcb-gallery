@@ -6,7 +6,7 @@ This was my **first real dip into a more complex 2‑layer board**. Before this,
 
 ---
 
-## 📐 Overview
+## Overview
 
 The board was built around four core requirements:
 
@@ -37,7 +37,7 @@ Used for:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 *(Embed your images here)*
 
@@ -46,15 +46,7 @@ Used for:
 
 ---
 
-## 🎥 Demo Video
-
-*(Embed or link your short clip)*
-
-![Video](./images/demo.gif)
-
----
-
-## 🧠 What I Learned
+## What I Learned
 
 This project taught me several foundational lessons in real PCB design:
 
@@ -93,7 +85,7 @@ This board pushed me past “beginner PCB” territory and into:
 
 ---
 
-## 📌 Status
+## Status
 
 **Completed.**  
 Delivered to the rocketry group for integration into their airbrakes system.
