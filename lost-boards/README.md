@@ -6,7 +6,7 @@ Even though the physical data is gone, these boards played a major role in shapi
 
 ---
 
-##What These Boards Included
+## What These Boards Included
 
 These lost boards covered a range of early experiments, including:
 - Simple microcontroller breakout boards  
